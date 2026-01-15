@@ -1,0 +1,9 @@
+﻿# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Trained models and outputs
+*.h5
+*.png
+
+# Large datasets
+Dataset/
